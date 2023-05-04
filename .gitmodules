@@ -1,0 +1,3 @@
+[submodule "gwlmaster-blog/themes/paper"]
+	path = gwlmaster-blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
